@@ -1,0 +1,21 @@
+﻿  Application.cpp
+D:\Portfolio\development\Final POE\Final POE\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+D:\Portfolio\development\Final POE\Final POE\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(398,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(406,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(562,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(601,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(628,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(678,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(679,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(683,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(684,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(686,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Portfolio\development\Final POE\Final POE\Application.cpp(687,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+D:\Portfolio\development\Final POE\Final POE\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+  stb_image.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Final POE.vcxproj -> D:\Portfolio\development\Final POE\x64\Debug\Final POE.exe

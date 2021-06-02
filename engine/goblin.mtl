@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.11.2020 10:17:47
+
+newmtl 03___Default_u1_v2
+	Ns 22.30
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 0.76 0.62 0.52
+	Ks 0.07 0.07 0.07
+	Ke 0.04 0.00 0.00
+	map_Ka Map__1_MultiTile.tga
+	map_Kd Map__1_MultiTile.tga
+	map_refl D:\MudBox\Mudbox 2019\Textures\Lightprobes\horizon.exr
